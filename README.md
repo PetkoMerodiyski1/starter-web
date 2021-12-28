@@ -8,6 +8,10 @@ This example is to show different parts of Git
 
 ## Purpose
 
+Provide simple examples
+
 ## Deployment
+
+Be on every web server
 
 ## How to contribute
