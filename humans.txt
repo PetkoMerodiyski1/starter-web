@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Petko Merodiyski CEO
 
 # THANKS
 
