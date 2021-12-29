@@ -15,3 +15,7 @@ Provide simple examples
 Be on every web server
 
 ## How to contribute
+
+### Copyright
+
+2021 Git. Training.
