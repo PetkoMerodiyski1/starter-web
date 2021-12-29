@@ -16,6 +16,8 @@ Be on every web server
 
 ## How to contribute
 
+Pull everytime you want to pushh
+
 ### Copyright
 
 2021 Git. Training.
